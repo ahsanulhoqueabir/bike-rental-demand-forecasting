@@ -1,0 +1,4 @@
+Model,Train MAE,Train RMSE,Train R2,Val MAE,Val RMSE,Val R2
+Dummy (mean),1289.157,1586.991,0.0,2953.853,3075.792,-11.867
+Linear Regression,460.137,625.301,0.845,779.053,958.671,-0.25
+Random Forest (default),157.867,228.385,0.979,699.761,847.137,0.024

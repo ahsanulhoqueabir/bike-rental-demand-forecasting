@@ -1,0 +1,7 @@
+,MAE,RMSE,R2,Bias (pred-actual),MdAPE %,Val RMSE
+Dummy (mean),2346.921,2657.128,-0.764,-1748.942,39.934,3075.792
+Linear Regression,863.042,1158.468,0.665,10.013,10.862,958.671
+Random Forest (default),1186.718,1344.388,0.548,-706.168,19.989,847.137
+"Random Forest (tuned: depth=10, leaf=5)",1228.735,1401.792,0.509,-726.223,21.849,825.835
+Seasonal naive (lag-364) [extra],2260.055,2606.361,-0.698,-2005.655,38.423,
+Tuned RF refit on train+val [extra],1154.926,1345.488,0.548,-641.144,20.14,

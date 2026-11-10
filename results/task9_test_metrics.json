@@ -1,0 +1,48 @@
+{
+  "Dummy (mean)": {
+    "MAE": 2346.921,
+    "RMSE": 2657.128,
+    "R2": -0.764,
+    "Bias (pred-actual)": -1748.942,
+    "MdAPE %": 39.934,
+    "Val RMSE": 3075.792
+  },
+  "Linear Regression": {
+    "MAE": 863.042,
+    "RMSE": 1158.468,
+    "R2": 0.665,
+    "Bias (pred-actual)": 10.013,
+    "MdAPE %": 10.862,
+    "Val RMSE": 958.671
+  },
+  "Random Forest (default)": {
+    "MAE": 1186.718,
+    "RMSE": 1344.388,
+    "R2": 0.548,
+    "Bias (pred-actual)": -706.168,
+    "MdAPE %": 19.989,
+    "Val RMSE": 847.137
+  },
+  "Random Forest (tuned: depth=10, leaf=5)": {
+    "MAE": 1228.735,
+    "RMSE": 1401.792,
+    "R2": 0.509,
+    "Bias (pred-actual)": -726.223,
+    "MdAPE %": 21.849,
+    "Val RMSE": 825.835
+  },
+  "Seasonal naive (lag-364) [extra]": {
+    "MAE": 2260.055,
+    "RMSE": 2606.361,
+    "R2": -0.698,
+    "Bias (pred-actual)": -2005.655,
+    "MdAPE %": 38.423
+  },
+  "Tuned RF refit on train+val [extra]": {
+    "MAE": 1154.926,
+    "RMSE": 1345.488,
+    "R2": 0.548,
+    "Bias (pred-actual)": -641.144,
+    "MdAPE %": 20.14
+  }
+}

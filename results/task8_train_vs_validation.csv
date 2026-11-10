@@ -1,0 +1,3 @@
+,MAE,RMSE,R2,Val/Train RMSE ratio
+Train,326.434,470.547,0.912,1.0
+Validation,681.07,825.835,0.072,1.755

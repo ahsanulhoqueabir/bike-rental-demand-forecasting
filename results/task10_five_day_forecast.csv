@@ -1,0 +1,6 @@
+dteday,Weekday,Weather,temp,Actual,Predicted,Error,Abs % error
+2019-09-13,Friday,Clear / Few clouds,25.1,7804,6885.0,-919.0,11.8
+2019-10-10,Thursday,Clear / Few clouds,21.1,7691,6065.0,-1626.0,21.1
+2019-11-06,Wednesday,Clear / Few clouds,11.5,5686,3735.0,-1951.0,34.3
+2019-12-04,Wednesday,Clear / Few clouds,19.5,6606,5590.0,-1016.0,15.4
+2019-12-31,Tuesday,Mist / Cloudy,8.8,2729,2812.0,83.0,3.0
